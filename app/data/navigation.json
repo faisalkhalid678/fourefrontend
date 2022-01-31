@@ -1,0 +1,110 @@
+[
+    {
+        "id": 1,
+        "linkText": "Holidays",
+        "link" : "/holidays"
+    },
+    {
+        "id": 2,
+        "linkText": "Group Travel",
+        "link" : "/group-travel"
+    },
+    {
+        "id": 3,
+        "linkText": "Contact Us",
+        "link": "/contact-us"
+    },
+    {
+        "id": 4,
+        "linkText": "About",
+        "link": "/about"
+    },
+    {
+        "id": 5,
+        "linkText": "Rooms",
+        "child": true,
+        "submenu": [
+            {
+                "id": 21,
+                "link": "/room-grid",
+                "linkText": "Room Grid"
+            },
+            {
+                "id": 22,
+                "link": "/room-list",
+                "linkText": "Room List"
+            },
+            {
+                "id": 23,
+                "link": "/room-details/1",
+                "linkText": "Room Details"
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "linkText": "News",
+        "child": true,
+        "submenu": [
+            {
+                "id": 31,
+                "link": "/blog",
+                "linkText": "News"
+            },
+            {
+                "id": 32,
+                "link": "/blog-standard",
+                "linkText": "News Standard"
+            },
+            {
+                "id": 33,
+                "link": "/blog-details/1",
+                "linkText": "News Details"
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "linkText": "Pages",
+        "child": true,
+        "submenu": [
+            {
+                "id": 61,
+                "link": "/gallery",
+                "linkText": "Our Gallery"
+            },
+            {
+                "id": 62,
+                "link": "/restaurant",
+                "linkText": "Restaurant"
+            },
+            {
+                "id": 63,
+                "linkText": "Places",
+                "child": true,
+                "submenu": [
+                    {
+                        "id": 631,
+                        "link": "/places",
+                        "linkText": "Places"
+                    },
+                    {
+                        "id": 632,
+                        "link": "/places-details/1",
+                        "linkText": "Places Details"
+                    }
+                ]
+            },
+            {
+                "id": 64,
+                "link": "/offers",
+                "linkText": "Offers"
+            },
+            {
+                "id": 65,
+                "link": "/menu",
+                "linkText": "Menu"
+            }
+        ]
+    }
+]

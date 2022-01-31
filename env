@@ -1,0 +1,25 @@
+REACT_APP_USERNAME_PRO=Universal API/uAPI8653485365-a1381b7e
+REACT_APP_PASSWORD=E$p5!i7J8R
+REACT_APP_TARGET_BRANCH=P3220788
+
+REACT_APP_USERNAME_LOC=
+REACT_APP_USERNAME_LOC=
+REACT_APP_HOST=8000
+
+# Automatic browser launch on server start
+BROWSER=true
+
+# Server bound hostname
+HOST=0.0.0.0
+
+# Server bound port
+PORT=3000
+
+# Server HTTPS mode
+HTTPS=false
+
+# Feature flags
+REACT_APP_SHOW_VERSION_NUMBER=true
+
+# API
+REACT_APP_API_URL=http://localhost/flight-api/api

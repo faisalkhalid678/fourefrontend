@@ -1,0 +1,22 @@
+[
+    {
+        "id":1,
+        "icon":"flaticon-hotel",
+        "title":"Luxury Room"
+    },
+    {
+        "id":2,
+        "icon":"fal fa-users",
+        "title":"Family Room"
+    },
+    {
+        "id":3,
+        "icon":"fal fa-bed",
+        "title":"Double bed"
+    },
+    {
+        "id":4,
+        "icon":"fal fa-couch",
+        "title":"Relex Room"
+    }
+]

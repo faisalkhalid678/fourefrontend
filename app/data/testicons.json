@@ -1,0 +1,27 @@
+[
+    {
+        "id":1,
+        "icon":"/flight.png",
+        "title":"Flight"
+    },
+    {
+        "id":2,
+        "icon":"/ride.png",
+        "title":"Ride"
+    },
+    {
+        "id":3,
+        "icon":"/earn.png",
+        "title":"Earn"
+    },
+    {
+        "id":4,
+        "icon":"/bus.png",
+        "title":"Bus"
+    },
+    {
+        "id":5,
+        "icon":"/bike.png",
+        "title":"Bike"
+    }
+]

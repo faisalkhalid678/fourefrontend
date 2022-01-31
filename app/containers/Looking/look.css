@@ -1,0 +1,90 @@
+.navbar-logo{
+  display: flex;
+  justify-self: start;
+  cursor: pointer;
+  font-size: 19px;
+  align-items: center;
+  margin-right: 20px;
+  text-decoration: none !important;
+  
+}
+
+.nav-item a {
+  padding: 20px 20px;
+  transition:  all 0.5s ease-in;
+}
+.nav-item a:hover{
+  background: #fcb040;
+}
+
+.ad-t
+{
+  padding-top: 25px !important;
+}
+.ad-t, .ad-f {
+  padding-top: 0px;
+  padding-left: 10px;
+  font-weight: 400;
+  text-shadow: 0px 1px 1px #fff;
+  cursor: pointer;
+}
+
+.dot{
+  margin-right: 12px;
+  font-size: 16px;
+}
+.left-dot{
+  margin-left: 11px;
+}
+.right-square{
+  margin-left: -10px;
+  margin-bottom: 20px;
+  position: absolute;
+  top: 70px;
+}
+.ar{
+  font-size: 30px;
+}
+.v-bar{
+  position: absolute;
+  left: 3.6%;
+  top: 5%;
+  transform: translateY(4px);
+  margin-left: 3.5px;
+  height: 25px;
+  height: calc(((100% + 1px) - 200px) - 145px);
+  width: 2px;
+  background-color: #fff;
+}
+.service-list{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  background: #fff;
+}
+.service-list div{
+  /* flex-basis: 33.33%; */
+  flex-direction: column;
+}
+.service-list .s-img {
+  padding: 13px;
+}
+.service-list .s-name{
+  padding: 20px 16px 20px 0px;
+}
+.fs-14{
+  font-size: 14px;
+}
+.service-price{
+  font-size: 18px;
+  padding-top: 25px;
+}
+.service-p{
+  font-size: 18px;
+}
+.s-name{
+  width: 178px;
+}
+.s-img{
+  width: 96px;
+}
